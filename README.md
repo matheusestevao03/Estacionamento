@@ -37,7 +37,6 @@ private static final String SID = "ORCL"; // ou o Service Name do Oracle
 private static final String USER = "seu_usuario";
 private static final String PASSWORD = "sua_senha";
 
-text
 
 ---
 
